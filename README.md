@@ -8,7 +8,7 @@
   </a>
 </p>
 
-### Passionate about protecting text from tyranny and disaster in decentralized and distributed ways
+### Passionate about protecting text from tyranny in decentralized and distributed ways
 
 #### So what if you and your company do good? Someone else will run it one day. Someone you have yet to meet and therefore - can never trust. We need decentralization...
 
