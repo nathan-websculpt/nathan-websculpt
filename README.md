@@ -8,6 +8,6 @@
   </a>
 </p>
 
-### <p align="center">I am currently passionate about protecting text from tyranny and disaster in decentralized and distributed ways</p>
+### I am currently passionate about protecting text from tyranny and disaster in decentralized and distributed ways
 
-#### <blockquote>So what if you and your company do good? Someone else will run it one day. Someone you have yet to meet and therefore - can never trust. We need decentralization...</blockquote>
+#### So what if you and your company do good? Someone else will run it one day. Someone you have yet to meet and therefore - can never trust. We need decentralization...
