@@ -1,6 +1,6 @@
-# Hello
+#### Hello, my name is Nathan
 
-#### <p align="center">I do fullstack on web2 and web3 builds</p>
+## <p align="center">I do fullstack on web2 and web3 builds</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
