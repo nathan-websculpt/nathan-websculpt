@@ -79,11 +79,11 @@ I put the Bible on the blockchain <a href="https://www.gospelonchain.com">Gospel
 
 ##### Tropical Hibiscus (Hibiscus rosa-sinensis)
 
-![Tropical Hibiscus](/docs/assets/images/hibiscus_tropical.jpg)
+<img src="/docs/assets/images/hibiscus_tropical.jpg" alt="Tropical Hibiscus">
 
 ##### Cranberry Hibiscus (Hibiscus acetosella 'Mahogany Splendor')
 
-![Tropical Hibiscus](/docs/assets/images/hibiscus_cranberry.jpg)
+<img src="/docs/assets/images/hibiscus_cranberry.jpg" alt="Cranberry Hibiscus" width="60%">
 
 ---
 
