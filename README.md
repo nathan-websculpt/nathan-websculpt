@@ -1,4 +1,4 @@
-<!-- <h2> Hi, I'm Nathan! 
+<!-- <h2> Hi, I'm Nathan!
 </h2> -->
 
 # Hi, I'm Nathan :wave:
@@ -6,7 +6,6 @@
 <p>
 <em>
 Blockchain developer learning the EVM
-
 
 </br>
 
@@ -42,9 +41,19 @@ I put the Bible on the blockchain <a href="https://www.gospelonchain.com">Gospel
 
 ---
 
+### <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXEzaGthOGM0NmVmcDlnZHY1djBmNHhwbDJjMHFrcGRhb2ppaG81diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DdpmhAQpQZzwHSrQ3f/giphy.gif" width="50"> A Free Memory Pointer is a cool place to be
+
+```javascript
+PUSH1 0x80
+PUSH1 0x40
+MSTORE
+```
+
+---
+
 ### Most Recent Blockchain Projects (free and open-source)
 
-- [Gospel Onchain](https://www.gospelonchain.com/) | Bible verses stored directly on Optimism Mainnet, Graph subgraph (GraphQL) allows for easy reading && searching of verses 
+- [Gospel Onchain](https://www.gospelonchain.com/) | Bible verses stored directly on Optimism Mainnet, Graph subgraph (GraphQL) allows for easy reading && searching of verses
 - [Council](https://github.com/nathan-websculpt/council) | Like Gospel Onchain, but multiple members of a council must unanimously confirm verses (voting on the validity) before any text can enter the final book
 - [General Fund](https://github.com/nathan-websculpt/general-fund) | A General-Fund with a members-list that is self-governed (anyone can donate or ask to join, but it takes a members-only vote to receive funds). This idea is for charity orgs, churches, or to fund the efforts of a project like the [Council](https://github.com/nathan-websculpt/council) project.
 - [Crowd Fund v4](https://github.com/nathan-websculpt/crowd-fund-v4) | Full, group-oriented crowd fund, w/ multisig “social media type” elements, like the ability for a group to make posts, BUT they all must support the proposal before the post is sent out to their page (uses a subgraph)
@@ -55,31 +64,31 @@ I put the Bible on the blockchain <a href="https://www.gospelonchain.com">Gospel
 
 ### In the blockchain community
 
-- Was a paid member of [BuidlGuidl](https://app.buidlguidl.com/builders/0x1e7aAbB9D0C701208E875131d0A1cFcDAba79350) *(profile pic was auto-generated, not created by myself)*
-- Speed Runner of them Ethereums 
-    - [SpeedRunEthereum Challenge 0](https://speedrunethereum.com/challenge/simple-nft-example) | [codes](https://sepolia.etherscan.io/address/0x26798B7Be541b2534940f8Ba4b9D799230844bE5#code)
-    - [SpeedRunEthereum Challenge 1](https://speedrunethereum.com/challenge/decentralized-staking) | [codes](https://sepolia.etherscan.io/address/0x9eEE6eC067052A800a463661DBC4893Ccf3bc9CF#code)
-    - [SpeedRunEthereum Challenge 2](https://speedrunethereum.com/challenge/token-vendor) | [codes](https://sepolia.etherscan.io/address/0x2b009b88c606cf5c285c3ddae103bd4f12adda73#code)
-    - [SpeedRunEthereum Challenge 3](https://speedrunethereum.com/challenge/dice-game) | [codes](https://sepolia.etherscan.io/address/0x00b75CaB6Ee1A76e64A565927931013aB484A7e0#code)
-    - [SpeedRunEthereum Challenge 4](https://speedrunethereum.com/challenge/minimum-viable-exchange) | [codes](https://sepolia.etherscan.io/address/0x9318E92317d071c6231084C01b02C686F2084491#code)
-    - [SpeedRunEthereum Challenge 5](https://speedrunethereum.com/challenge/state-channels) | [codes](https://sepolia.etherscan.io/address/0xAeBb1585819248c5f7dbC8752763C907F5803D32#code)
+- Was a paid member of [BuidlGuidl](https://app.buidlguidl.com/builders/0x1e7aAbB9D0C701208E875131d0A1cFcDAba79350) _(profile pic was auto-generated, not created by myself)_
+- Speed Runner of them Ethereums
+  - [SpeedRunEthereum Challenge 0](https://speedrunethereum.com/challenge/simple-nft-example) | [codes](https://sepolia.etherscan.io/address/0x26798B7Be541b2534940f8Ba4b9D799230844bE5#code)
+  - [SpeedRunEthereum Challenge 1](https://speedrunethereum.com/challenge/decentralized-staking) | [codes](https://sepolia.etherscan.io/address/0x9eEE6eC067052A800a463661DBC4893Ccf3bc9CF#code)
+  - [SpeedRunEthereum Challenge 2](https://speedrunethereum.com/challenge/token-vendor) | [codes](https://sepolia.etherscan.io/address/0x2b009b88c606cf5c285c3ddae103bd4f12adda73#code)
+  - [SpeedRunEthereum Challenge 3](https://speedrunethereum.com/challenge/dice-game) | [codes](https://sepolia.etherscan.io/address/0x00b75CaB6Ee1A76e64A565927931013aB484A7e0#code)
+  - [SpeedRunEthereum Challenge 4](https://speedrunethereum.com/challenge/minimum-viable-exchange) | [codes](https://sepolia.etherscan.io/address/0x9318E92317d071c6231084C01b02C686F2084491#code)
+  - [SpeedRunEthereum Challenge 5](https://speedrunethereum.com/challenge/state-channels) | [codes](https://sepolia.etherscan.io/address/0xAeBb1585819248c5f7dbC8752763C907F5803D32#code)
 - Older [Medium Blog](https://medium.com/@websculpt) where I have written about blockchain tech since 2021
 
 ---
 
-### More about me 
+### More about me
 
 - Christian
 - I've been coding since 2010
-- Avid gardener with horticultural/botanical interests
+- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2VzbGtkenp3bmtyZWd4ODBkendwZjdocmVoeTdzNGs2bGN2dHI1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gfLAArNAwV90BdjrQp/giphy.gif" width="50"> Avid gardener with horticultural/botanical interests
 
 ---
 
-### Favorite Plants
+<h6><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJ1NzdsMXU0Y3AyMW14eTRmM2d1M3NkZDVqdDEwdnFob2g2bDM3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kIKs2wJwPDw62dkDLU/giphy.gif" width="50">Favorite Plants</h6>
 
 #### Tropical Hibiscus (Hibiscus rosa-sinensis)
 
-- Specific soil and nutrient requirements 
+- Specific soil and nutrient requirements
 - Loves water, but doesn't like staying wet
 - Vibrant and showy all season long
 - I am hybridizing these
@@ -115,15 +124,9 @@ I put the Bible on the blockchain <a href="https://www.gospelonchain.com">Gospel
 
 ---
 
-##### [websculpt.eth](https://etherscan.io/address/0x1e7aAbB9D0C701208E875131d0A1cFcDAba79350)
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A Free Memory Pointer is a cool place to be
-
-```javascript
-PUSH1 0x80
-PUSH1 0x40
-MSTORE
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXV3b3J5dXF5ODQ1Z3N0bHpsZ2xlYW8zNGh0ZDRzbHlpajU4eWZ2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xCAZJEPXYCazrgF9mi/giphy.gif" width="60"> <em><b>Donations are cool</b> and crypto donations <b>are even cooler: <a href="https://etherscan.io/address/0x1e7aAbB9D0C701208E875131d0A1cFcDAba79350" target="_blank">websculpt.eth</a></b> :)
 </em>
+
+---
+
+##### [websculpt.eth | 0x1e7aAbB9D0C701208E875131d0A1cFcDAba79350](https://etherscan.io/address/0x1e7aAbB9D0C701208E875131d0A1cFcDAba79350)
