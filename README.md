@@ -40,7 +40,7 @@ Blockchain developer learning the EVM
 <p>While I have stored <a href="https://www.gospelonchain.com/">The Bible</a> directly onto the blockchain, I do not think it is enough. I've worked towards allowing a council to oversee the process of a book-upload, but even still ... I'm itching for a Rust build for this sort of goal 😊 <br> Until new chains/protocols are built, I want to totally learn the EVM (which I have come to really enjoy). I want to store more Bibles &mdash; multiple versions, multiple languages, involving more chains...
 <br>
 <br>
-... and more **low-level** assembly
+... and more <i>low-level</i> assembly
 </p>
 
 
@@ -128,7 +128,7 @@ MSTORE
 
 ---
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXV3b3J5dXF5ODQ1Z3N0bHpsZ2xlYW8zNGh0ZDRzbHlpajU4eWZ2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xCAZJEPXYCazrgF9mi/giphy.gif" width="60"> <em><b>Donations are cool</b> and crypto donations <b>are even cooler: <a href="https://etherscan.io/address/0x1e7aAbB9D0C701208E875131d0A1cFcDAba79350" target="_blank">websculpt.eth</a></b> :)
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXV3b3J5dXF5ODQ1Z3N0bHpsZ2xlYW8zNGh0ZDRzbHlpajU4eWZ2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xCAZJEPXYCazrgF9mi/giphy.gif" width="60"> <em><b>Donations are cool</b> and crypto donations <b>are even cooler: <a href="https://etherscan.io/address/0x1e7aAbB9D0C701208E875131d0A1cFcDAba79350" target="_blank">websculpt.eth</a></b> ☺️
 </em>
 
 ---
