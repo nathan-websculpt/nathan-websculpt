@@ -20,10 +20,10 @@ Blockchain developer learning the EVM
 
 #### 🛠️🛠️🛠️ What I am working towards this year 🛠️🛠️🛠️
 
-1. ♞ Working with Huff, rewriting Solidity in Huff
-2. 🤔 Learning more about the EVM (Ethereum Virtual Machine)
-3. 👨‍🔬 Learning the process for a Smart Contract Code Review (auditing and ethical hacking)
-4. 💻 Writing more C (I needed to understand more about C in order to go deeper into Rust, but then C became my favorite language)
+1. ♞ Working with **Huff**, rewriting Solidity in Huff
+2. 🤔 Learning more about the **EVM** (Ethereum Virtual Machine)
+3. 👨‍🔬 Learning the process for a Smart Contract Code Review (**auditing** and ethical hacking)
+4. 💻 Writing **more C** (I needed to understand more about C in order to go deeper into Rust, but then C became my favorite language)
 
 ---
 
