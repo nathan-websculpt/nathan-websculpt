@@ -15,7 +15,7 @@ Blockchain developer learning the EVM
 </p>
 
 [![Twitter: WebSculpt](https://img.shields.io/twitter/follow/sculpt_web?style=social)](https://x.com/sculpt_web)
-[![Linkedin: websculpt-nathan](https://img.shields.io/badge/-websculpt-nathan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/websculpt-nathan/)](https://www.linkedin.com/in/websculpt-nathan/)
+[![Linkedin: websculpt-nathan](https://img.shields.io/badge/websculpt-nathan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/websculpt-nathan/)](https://www.linkedin.com/in/websculpt-nathan/)
 [![GitHub nathan-websculpt](https://img.shields.io/github/followers/nathan-websculpt?label=follow&style=social)](https://github.com/nathan-websculpt)
 
 #### 🛠️🛠️🛠️ What I am working towards this year 🛠️🛠️🛠️
@@ -27,7 +27,7 @@ Blockchain developer learning the EVM
 
 ---
 
-<h3 align="center">In the past, I have been fullstack on web2 and web3 builds</h3>
+<h3 align="center">📍 In the past, I have been fullstack on web2 and web3 builds 📍</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -35,9 +35,13 @@ Blockchain developer learning the EVM
   </a>
 </p>
 
-<h4 align="center">But these days, I am passionate about protecting text from tyranny in decentralized and distributed ways</h4>
+<h4 align="center">🎯 But these days, I am passionate about protecting text from tyranny in decentralized and distributed ways 🎯</h4>
 
-<p>While I have stored <a href="https://www.gospelonchain.com/">The Bible</a> directly onto the blockchain, I do not think it is enough. I've worked towards allowing a council to oversee the process of a book-upload, but even still ... I'm itching for a Rust build for this sort of goal 😊 <br> Until new chains/protocols are built, I want to totally learn the EVM (which I have come to really enjoy). I want to store more Bibles &mdash; multiple versions, multiple languages, involving more chains.</p>
+<p>While I have stored <a href="https://www.gospelonchain.com/">The Bible</a> directly onto the blockchain, I do not think it is enough. I've worked towards allowing a council to oversee the process of a book-upload, but even still ... I'm itching for a Rust build for this sort of goal 😊 <br> Until new chains/protocols are built, I want to totally learn the EVM (which I have come to really enjoy). I want to store more Bibles &mdash; multiple versions, multiple languages, involving more chains...
+<br>
+<br>
+... and more **low-level** assembly
+</p>
 
 
 ### <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXEzaGthOGM0NmVmcDlnZHY1djBmNHhwbDJjMHFrcGRhb2ppaG81diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DdpmhAQpQZzwHSrQ3f/giphy.gif" width="30"> A Free Memory Pointer is a cool place to be <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXEzaGthOGM0NmVmcDlnZHY1djBmNHhwbDJjMHFrcGRhb2ppaG81diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DdpmhAQpQZzwHSrQ3f/giphy.gif" width="30">
@@ -65,12 +69,12 @@ MSTORE
 
 - Was a paid member of [BuidlGuidl](https://app.buidlguidl.com/builders/0x1e7aAbB9D0C701208E875131d0A1cFcDAba79350) _(profile pic was auto-generated, not created by myself)_
 - Speed Runner of them Ethereums
-  - [SpeedRunEthereum Challenge 0](https://speedrunethereum.com/challenge/simple-nft-example) | [codes](https://sepolia.etherscan.io/address/0x26798B7Be541b2534940f8Ba4b9D799230844bE5#code)
-  - [SpeedRunEthereum Challenge 1](https://speedrunethereum.com/challenge/decentralized-staking) | [codes](https://sepolia.etherscan.io/address/0x9eEE6eC067052A800a463661DBC4893Ccf3bc9CF#code)
-  - [SpeedRunEthereum Challenge 2](https://speedrunethereum.com/challenge/token-vendor) | [codes](https://sepolia.etherscan.io/address/0x2b009b88c606cf5c285c3ddae103bd4f12adda73#code)
-  - [SpeedRunEthereum Challenge 3](https://speedrunethereum.com/challenge/dice-game) | [codes](https://sepolia.etherscan.io/address/0x00b75CaB6Ee1A76e64A565927931013aB484A7e0#code)
-  - [SpeedRunEthereum Challenge 4](https://speedrunethereum.com/challenge/minimum-viable-exchange) | [codes](https://sepolia.etherscan.io/address/0x9318E92317d071c6231084C01b02C686F2084491#code)
-  - [SpeedRunEthereum Challenge 5](https://speedrunethereum.com/challenge/state-channels) | [codes](https://sepolia.etherscan.io/address/0xAeBb1585819248c5f7dbC8752763C907F5803D32#code)
+  - [SpeedRunEthereum Challenge 0](https://speedrunethereum.com/challenge/simple-nft-example) | [codes](https://sepolia.etherscan.io/address/0x26798B7Be541b2534940f8Ba4b9D799230844bE5#code) | [demo](http://untidy-babies.surge.sh/debugcontracts)
+  - [SpeedRunEthereum Challenge 1](https://speedrunethereum.com/challenge/decentralized-staking) | [codes](https://sepolia.etherscan.io/address/0x9eEE6eC067052A800a463661DBC4893Ccf3bc9CF#code) | [demo](http://ludicrous-stomach.surge.sh/)
+  - [SpeedRunEthereum Challenge 2](https://speedrunethereum.com/challenge/token-vendor) | [codes](https://sepolia.etherscan.io/address/0x2b009b88c606cf5c285c3ddae103bd4f12adda73#code) | [demo](http://colorful-snail.surge.sh/)
+  - [SpeedRunEthereum Challenge 3](https://speedrunethereum.com/challenge/dice-game) | [codes](https://sepolia.etherscan.io/address/0x00b75CaB6Ee1A76e64A565927931013aB484A7e0#code) | [demo](http://wet-time.surge.sh/)
+  - [SpeedRunEthereum Challenge 4](https://speedrunethereum.com/challenge/minimum-viable-exchange) | [codes](https://sepolia.etherscan.io/address/0x9318E92317d071c6231084C01b02C686F2084491#code) | [demo](http://scared-minute.surge.sh/)
+  - [SpeedRunEthereum Challenge 5](https://speedrunethereum.com/challenge/state-channels) | [codes](https://sepolia.etherscan.io/address/0xAeBb1585819248c5f7dbC8752763C907F5803D32#code) | [demo](http://fearless-yam.surge.sh/)
 - Older [Medium Blog](https://medium.com/@websculpt) where I have written about blockchain tech since 2021
 
 ---
@@ -83,9 +87,9 @@ MSTORE
 
 ---
 
-<h3><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJ1NzdsMXU0Y3AyMW14eTRmM2d1M3NkZDVqdDEwdnFob2g2bDM3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kIKs2wJwPDw62dkDLU/giphy.gif" width="40">Favorite Plants</h3>
+<h3><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJ1NzdsMXU0Y3AyMW14eTRmM2d1M3NkZDVqdDEwdnFob2g2bDM3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kIKs2wJwPDw62dkDLU/giphy.gif" width="40"><b>Favorite Plants</b></h3>
 
-#### 🌱 Cranberry Hibiscus (Hibiscus acetosella 'Mahogany Splendor')
+#### **🌱 Cranberry Hibiscus** *(Hibiscus acetosella 'Mahogany Splendor')*
 
 - Grows up to 7-8 feet
 - Blooms in the fall
@@ -94,7 +98,7 @@ MSTORE
 
 <img src="/docs/assets/images/hibiscus_cranberry.jpg" alt="Cranberry Hibiscus" width="60%">
 
-#### 🌺 Tropical Hibiscus (Hibiscus rosa-sinensis)
+#### 🌺 **Tropical Hibiscus** *(Hibiscus rosa-sinensis)*
 
 - Specific soil and nutrient requirements
 - Loves water, but doesn't like staying wet
@@ -103,7 +107,7 @@ MSTORE
 
 <img src="/docs/assets/images/hibiscus_tropical.jpg" alt="Tropical Hibiscus">
 
-#### 🌼 Cosmos (Cosmos Sulphureus)
+#### 🌼 **Cosmos** *(Cosmos Sulphureus)*
 
 - Self-seeding annual
 - Blooms all season
@@ -112,8 +116,9 @@ MSTORE
 
 <img src="/docs/assets/images/cosmos.jpg" alt="Cosmos" width="60%">
 
-#### 🌸 Morning Glory (over 1,000 species across several genera within the Convolvulaceae family, the most common being Ipomoea, Convolvulus, Calystegia, Merremia)
+#### 🌸 **Morning Glory** *(over 1,000 species across several genera within the Convolvulaceae family, the most common being Ipomoea, Convolvulus, Calystegia, Merremia)*
 
+- Vining
 - Blooms in the morning
 - Catches the light just right
 - Likely to be invasive in your area
