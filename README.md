@@ -19,7 +19,7 @@ I put the Bible on the blockchain <a href="https://www.gospelonchain.com">Gospel
 [![Linkedin: websculpt-nathan](https://img.shields.io/badge/-websculpt-nathan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/websculpt-nathan/)](https://www.linkedin.com/in/websculpt-nathan/)
 [![GitHub nathan-websculpt](https://img.shields.io/github/followers/nathan-websculpt?label=follow&style=social)](https://github.com/nathan-websculpt)
 
-##### What I am working towards this year:
+#### What I am working towards this year:
 
 1. Working with Huff, rewriting Solidity in Huff
 2. Learning more about the EVM (Ethereum Virtual Machine)
@@ -42,7 +42,7 @@ I put the Bible on the blockchain <a href="https://www.gospelonchain.com">Gospel
 
 ---
 
-#### Most Recent Blockchain Projects (free and open-source)
+### Most Recent Blockchain Projects (free and open-source)
 
 - [Gospel Onchain](https://www.gospelonchain.com/) | Bible verses stored directly on Optimism Mainnet, Graph subgraph (GraphQL) allows for easy reading && searching of verses 
 - [Council](https://github.com/nathan-websculpt/council) | Like Gospel Onchain, but multiple members of a council must unanimously confirm verses (voting on the validity) before any text can enter the final book
@@ -53,7 +53,7 @@ I put the Bible on the blockchain <a href="https://www.gospelonchain.com">Gospel
 
 ---
 
-#### In the blockchain community
+### In the blockchain community
 
 - Was a paid member of [BuidlGuidl](https://app.buidlguidl.com/builders/0x1e7aAbB9D0C701208E875131d0A1cFcDAba79350) *(profile pic was auto-generated, not created by myself)*
 - Speed Runner of them Ethereums 
@@ -67,7 +67,7 @@ I put the Bible on the blockchain <a href="https://www.gospelonchain.com">Gospel
 
 ---
 
-#### More about me 
+### More about me 
 
 - Christian
 - I've been coding since 2010
@@ -75,21 +75,49 @@ I put the Bible on the blockchain <a href="https://www.gospelonchain.com">Gospel
 
 ---
 
-#### Favorite Plants
+### Favorite Plants
 
-##### Tropical Hibiscus (Hibiscus rosa-sinensis)
+#### Tropical Hibiscus (Hibiscus rosa-sinensis)
+
+- Specific soil and nutrient requirements 
+- Loves water, but doesn't like staying wet
+- Vibrant and showy all season long
+- I am hybridizing these
 
 <img src="/docs/assets/images/hibiscus_tropical.jpg" alt="Tropical Hibiscus">
 
-##### Cranberry Hibiscus (Hibiscus acetosella 'Mahogany Splendor')
+#### Cranberry Hibiscus (Hibiscus acetosella 'Mahogany Splendor')
+
+- Grows up to 7-8 feet
+- Blooms in the fall
+- An affordable alternative to Japanese Maples (the foliage is close enough)
+- I currently have 35 of these growing
 
 <img src="/docs/assets/images/hibiscus_cranberry.jpg" alt="Cranberry Hibiscus" width="60%">
+
+#### Cosmos (Cosmos Sulphureus)
+
+- Self-seeding annual
+- Blooms all season
+- Drought-tolerant once established
+- Be careful that they don't take over your yard!
+
+<img src="/docs/assets/images/cosmos.jpg" alt="Cosmos" width="60%">
+
+#### Morning Glory (over 1,000 species across several genera within the Convolvulaceae family, the most common being Ipomoea, Convolvulus, Calystegia, Merremia)
+
+- Blooms in the morning
+- Catches the light just right
+- Likely to be invasive in your area
+- You are likely to battle rust all season long, but it is worth it
+
+<img src="/docs/assets/images/morning_glory.jpg" alt="Morning Glory" width="60%">
 
 ---
 
 ##### [websculpt.eth](https://etherscan.io/address/0x1e7aAbB9D0C701208E875131d0A1cFcDAba79350)
 
-### A Free Memory Pointer is a cool place to be
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A Free Memory Pointer is a cool place to be
 
 ```javascript
 PUSH1 0x80
@@ -97,3 +125,5 @@ PUSH1 0x40
 MSTORE
 ```
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)
+</em>
