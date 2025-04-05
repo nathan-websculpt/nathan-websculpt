@@ -85,16 +85,7 @@ MSTORE
 
 <h3><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJ1NzdsMXU0Y3AyMW14eTRmM2d1M3NkZDVqdDEwdnFob2g2bDM3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kIKs2wJwPDw62dkDLU/giphy.gif" width="40">Favorite Plants</h3>
 
-#### Tropical Hibiscus (Hibiscus rosa-sinensis)
-
-- Specific soil and nutrient requirements
-- Loves water, but doesn't like staying wet
-- Vibrant and showy all season long
-- I am hybridizing these
-
-<img src="/docs/assets/images/hibiscus_tropical.jpg" alt="Tropical Hibiscus">
-
-#### Cranberry Hibiscus (Hibiscus acetosella 'Mahogany Splendor')
+#### 🌱 Cranberry Hibiscus (Hibiscus acetosella 'Mahogany Splendor')
 
 - Grows up to 7-8 feet
 - Blooms in the fall
@@ -103,7 +94,16 @@ MSTORE
 
 <img src="/docs/assets/images/hibiscus_cranberry.jpg" alt="Cranberry Hibiscus" width="60%">
 
-#### Cosmos (Cosmos Sulphureus)
+#### 🌺 Tropical Hibiscus (Hibiscus rosa-sinensis)
+
+- Specific soil and nutrient requirements
+- Loves water, but doesn't like staying wet
+- Vibrant and showy all season long
+- I am hybridizing these
+
+<img src="/docs/assets/images/hibiscus_tropical.jpg" alt="Tropical Hibiscus">
+
+#### 🌼 Cosmos (Cosmos Sulphureus)
 
 - Self-seeding annual
 - Blooms all season
@@ -112,7 +112,7 @@ MSTORE
 
 <img src="/docs/assets/images/cosmos.jpg" alt="Cosmos" width="60%">
 
-#### Morning Glory (over 1,000 species across several genera within the Convolvulaceae family, the most common being Ipomoea, Convolvulus, Calystegia, Merremia)
+#### 🌸 Morning Glory (over 1,000 species across several genera within the Convolvulaceae family, the most common being Ipomoea, Convolvulus, Calystegia, Merremia)
 
 - Blooms in the morning
 - Catches the light just right
