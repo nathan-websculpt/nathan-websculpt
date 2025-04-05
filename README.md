@@ -40,7 +40,7 @@ Blockchain developer learning the EVM
 <p>While I have stored <a href="https://www.gospelonchain.com/">The Bible</a> directly onto the blockchain, I do not think it is enough. I've worked towards allowing a council to oversee the process of a book-upload, but even still ... I'm itching for a Rust build for this sort of goal 😊 <br> Until new chains/protocols are built, I want to totally learn the EVM (which I have come to really enjoy). I want to store more Bibles &mdash; multiple versions, multiple languages, involving more chains...
 <br>
 <br>
-... and more <i>low-level</i> assembly
+... and <b>more <i>low-level</i> assembly</b>
 </p>
 
 
