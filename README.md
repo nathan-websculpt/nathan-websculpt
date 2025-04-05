@@ -18,12 +18,12 @@ Blockchain developer learning the EVM
 [![Linkedin: websculpt-nathan](https://img.shields.io/badge/-websculpt-nathan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/websculpt-nathan/)](https://www.linkedin.com/in/websculpt-nathan/)
 [![GitHub nathan-websculpt](https://img.shields.io/github/followers/nathan-websculpt?label=follow&style=social)](https://github.com/nathan-websculpt)
 
-#### What I am working towards this year:
+#### 🛠️ What I am working towards this year
 
-1. Working with Huff, rewriting Solidity in Huff
-2. Learning more about the EVM (Ethereum Virtual Machine)
-3. Learning the process for a Smart Contract Code Review (auditing and ethical hacking)
-4. Writing more C (I needed to understand more about C in order to go deeper into Rust, but then C became my favorite language)
+1. ♞ Working with Huff, rewriting Solidity in Huff
+2. 🤔 Learning more about the EVM (Ethereum Virtual Machine)
+3. 👨‍🔬 Learning the process for a Smart Contract Code Review (auditing and ethical hacking)
+4. 💻 Writing more C (I needed to understand more about C in order to go deeper into Rust, but then C became my favorite language)
 
 ---
 
