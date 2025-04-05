@@ -117,7 +117,7 @@ MSTORE
 - Blooms in the morning
 - Catches the light just right
 - Likely to be invasive in your area
-- You are likely to battle rust all season long, but it is worth it
+- You might have to battle rust all season long, but it is worth it
 
 <img src="/docs/assets/images/morning_glory.jpg" alt="Morning Glory" width="60%">
 
