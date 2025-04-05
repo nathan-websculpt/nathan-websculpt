@@ -18,7 +18,7 @@ Blockchain developer learning the EVM
 [![Linkedin: websculpt-nathan](https://img.shields.io/badge/-websculpt-nathan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/websculpt-nathan/)](https://www.linkedin.com/in/websculpt-nathan/)
 [![GitHub nathan-websculpt](https://img.shields.io/github/followers/nathan-websculpt?label=follow&style=social)](https://github.com/nathan-websculpt)
 
-#### 🛠️ What I am working towards this year
+#### 🛠️🛠️🛠️ What I am working towards this year 🛠️🛠️🛠️
 
 1. ♞ Working with Huff, rewriting Solidity in Huff
 2. 🤔 Learning more about the EVM (Ethereum Virtual Machine)
@@ -39,9 +39,8 @@ Blockchain developer learning the EVM
 
 <p>While I have stored <a href="https://www.gospelonchain.com/">The Bible</a> directly onto the blockchain, I do not think it is enough. I've worked towards allowing a council to oversee the process of a book-upload, but even still ... I'm itching for a Rust build for this sort of goal 😊 <br> Until new chains/protocols are built, I want to totally learn the EVM (which I have come to really enjoy). I want to store more Bibles &mdash; multiple versions, multiple languages, involving more chains.</p>
 
----
 
-### <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXEzaGthOGM0NmVmcDlnZHY1djBmNHhwbDJjMHFrcGRhb2ppaG81diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DdpmhAQpQZzwHSrQ3f/giphy.gif" width="30"> A Free Memory Pointer is a cool place to be
+### <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXEzaGthOGM0NmVmcDlnZHY1djBmNHhwbDJjMHFrcGRhb2ppaG81diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DdpmhAQpQZzwHSrQ3f/giphy.gif" width="30"> A Free Memory Pointer is a cool place to be <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXEzaGthOGM0NmVmcDlnZHY1djBmNHhwbDJjMHFrcGRhb2ppaG81diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DdpmhAQpQZzwHSrQ3f/giphy.gif" width="30">
 
 ```javascript
 PUSH1 0x80
