@@ -9,7 +9,7 @@ Blockchain developer learning the EVM
 
 </br>
 
-I put the Bible on the blockchain <a href="https://www.gospelonchain.com">Gospel Onchain</a>
+🕊️ I put the Bible on the blockchain <a href="https://www.gospelonchain.com">Gospel Onchain</a>
 </em>
 
 </p>
@@ -41,7 +41,7 @@ I put the Bible on the blockchain <a href="https://www.gospelonchain.com">Gospel
 
 ---
 
-### <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXEzaGthOGM0NmVmcDlnZHY1djBmNHhwbDJjMHFrcGRhb2ppaG81diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DdpmhAQpQZzwHSrQ3f/giphy.gif" width="50"> A Free Memory Pointer is a cool place to be
+### <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXEzaGthOGM0NmVmcDlnZHY1djBmNHhwbDJjMHFrcGRhb2ppaG81diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DdpmhAQpQZzwHSrQ3f/giphy.gif" width="30"> A Free Memory Pointer is a cool place to be
 
 ```javascript
 PUSH1 0x80
@@ -78,13 +78,13 @@ MSTORE
 
 ### More about me
 
-- Christian
-- I've been coding since 2010
-- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2VzbGtkenp3bmtyZWd4ODBkendwZjdocmVoeTdzNGs2bGN2dHI1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gfLAArNAwV90BdjrQp/giphy.gif" width="50"> Avid gardener with horticultural/botanical interests
+- ✝️ Christian
+- 👨‍💻 I've been coding since 2010
+- 🌻 Avid gardener with horticultural/botanical interests
 
 ---
 
-<h6><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJ1NzdsMXU0Y3AyMW14eTRmM2d1M3NkZDVqdDEwdnFob2g2bDM3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kIKs2wJwPDw62dkDLU/giphy.gif" width="50">Favorite Plants</h6>
+<h3><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJ1NzdsMXU0Y3AyMW14eTRmM2d1M3NkZDVqdDEwdnFob2g2bDM3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kIKs2wJwPDw62dkDLU/giphy.gif" width="40">Favorite Plants</h3>
 
 #### Tropical Hibiscus (Hibiscus rosa-sinensis)
 
