@@ -14,8 +14,7 @@ Blockchain developer learning the EVM
 
 </p>
 
-[![Twitter: WebSculpt](https://img.shields.io/twitter/follow/sculpt_web?style=social)](https://x.com/sculpt_web)
-[![Linkedin: websculpt-nathan](https://img.shields.io/badge/websculpt-nathan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/websculpt-nathan/)](https://www.linkedin.com/in/websculpt-nathan/)
+[websculpt.eth | 0x1e7aAbB9D0C701208E875131d0A1cFcDAba79350](https://etherscan.io/address/0x1e7aAbB9D0C701208E875131d0A1cFcDAba79350)
 [![GitHub nathan-websculpt](https://img.shields.io/github/followers/nathan-websculpt?label=follow&style=social)](https://github.com/nathan-websculpt)
 
 #### 🛠️🛠️🛠️ What I am working towards this year 🛠️🛠️🛠️
