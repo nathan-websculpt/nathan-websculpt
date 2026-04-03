@@ -4,13 +4,13 @@
 
 [Check out my new game, built with SDL3.](https://www.garden-sim.com) 
 
-Garden Sim is a C++ game that *wasn't* built on a game engine. What started out as multiple projects for me to learn more about C++ eventually became combined with my love for gardening ... now, the Garden Sim demo is almost complete! Garden Sim is a 2d farming/garden simulator where flowers matter just as much as food. Flowers give your gardens *Garden Morale* which unlocks items and actions as you progress throughout the various *stages* of *Garden Morale*.
+**Garden Sim** is a C++ game that *wasn't* built on a game engine. What started out as multiple projects for me to learn more about C++ eventually became combined with my love for gardening ... now, the **Garden Sim** demo is almost complete! **Garden Sim** is a 2d farming/garden simulator where flowers matter just as much as food. Flowers give your gardens *Garden Morale* which unlocks items and actions as you progress throughout the various *stages* of *Garden Morale*.
 
 Game has:
 
 - NPCs that help you with your tasks
-- beekeeping
 - fertilizers which intelligently alter harvest-yields
+- beekeeping
 - a water system
 - fast-travel
 - the ability to buy and sell in the store
