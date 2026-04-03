@@ -1,5 +1,22 @@
+[🕹️ NEW GAME 🕹️](https://www.garden-sim.com) 
+
+### 🙂 New Update (April 3rd, 2026)
+
+[Check out my new game, built with SDL3.](https://www.garden-sim.com) 
+
+Garden Sim is a C++ game that wasn't built on a game engine. What started out as projects for me to learn more about C++ eventually became combined with my love of gardening ... now, the Garden Sim demo is almost complete! Garden Sim is a 2d farming/garden simulator where flowers matter just as much as food. Flowers give your gardens *Garden Morale* which unlocks items and actions as you progress throughout the various *stages* of *Garden Morale*.
+
+[👉 You can support the game here](https://ko-fi.com/gardensim) 
+
+[👉 View project on itch.io](https://garden-sim.itch.io/garden-sim) 
+
+#### Trailer
+
+[![Garden Sim Teaser](https://img.youtube.com/vi/NMSl7ALI3FU/maxresdefault.jpg)](https://www.youtube.com/watch?v=NMSl7ALI3FU)
+
 <!-- <h2> Hi, I'm Nathan!
 </h2> -->
+
 
 # Hi, I'm Nathan :wave:
 
@@ -14,7 +31,7 @@ Blockchain developer learning the EVM
 
 </p>
 
-[websculpt.eth | 0x1e7aAbB9D0C701208E875131d0A1cFcDAba79350](https://etherscan.io/address/0x1e7aAbB9D0C701208E875131d0A1cFcDAba79350)
+[0x1e7aAbB9D0C701208E875131d0A1cFcDAba79350](https://etherscan.io/address/0x1e7aAbB9D0C701208E875131d0A1cFcDAba79350)
 
 #### 🛠️🛠️🛠️ What I am working towards this year 🛠️🛠️🛠️
 
@@ -126,9 +143,9 @@ MSTORE
 
 ---
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXV3b3J5dXF5ODQ1Z3N0bHpsZ2xlYW8zNGh0ZDRzbHlpajU4eWZ2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xCAZJEPXYCazrgF9mi/giphy.gif" width="60"> <em><b>Donations are cool</b> and crypto donations <b>are even cooler: <a href="https://etherscan.io/address/0x1e7aAbB9D0C701208E875131d0A1cFcDAba79350" target="_blank">websculpt.eth</a></b> ☺️
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXV3b3J5dXF5ODQ1Z3N0bHpsZ2xlYW8zNGh0ZDRzbHlpajU4eWZ2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xCAZJEPXYCazrgF9mi/giphy.gif" width="60"> <em><b>Donations are cool</b> and crypto donations <b>are even cooler: <a href="https://etherscan.io/address/0x1e7aAbB9D0C701208E875131d0A1cFcDAba79350" target="_blank">view wallet</a></b> ☺️
 </em>
 
 ---
 
-##### [websculpt.eth | 0x1e7aAbB9D0C701208E875131d0A1cFcDAba79350](https://etherscan.io/address/0x1e7aAbB9D0C701208E875131d0A1cFcDAba79350)
+##### [0x1e7aAbB9D0C701208E875131d0A1cFcDAba79350](https://etherscan.io/address/0x1e7aAbB9D0C701208E875131d0A1cFcDAba79350)
