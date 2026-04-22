@@ -23,6 +23,26 @@ Game has:
 
 [![Garden Sim Teaser](https://img.youtube.com/vi/NMSl7ALI3FU/maxresdefault.jpg)](https://www.youtube.com/watch?v=NMSl7ALI3FU)
 
+--- 
+
+## Other Games
+
+### A Tiny Game
+
+[👉 Arkanoid Style Game in C++ / SDL3](https://github.com/nathan-websculpt/sdl3-arkanoid) 
+
+[![Arkanoid Style Game](docs/assets/gifs/arkanoid-gif.gif)](https://github.com/nathan-websculpt/sdl3-arkanoid)
+
+- minimal game with heavy scope constraints
+
+### An Arcade Game
+
+[👉 Defender Style Game in C++ / SDL3](https://github.com/nathan-websculpt/sdl3-defender-v2) 
+
+[![Defender Style Game](docs/assets/gifs/def-gif-1.gif)](https://github.com/nathan-websculpt/sdl3-defender-v2)
+
+- a small game used to explore system-level concerns
+
 ## End of update - Hello World ⤵️
 
 <!-- <h2> Hi, I'm Nathan!
