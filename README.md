@@ -26,16 +26,6 @@ These projects use small games as controlled environments to explore determinist
 
 ---
 
-### Arkanoid (C++ / SDL3)
-
-- deterministic fixed-step simulation
-- state-machine driven gameplay slices (incremental, testable)
-- strict control over update order and mutation
-
-[View repository](https://github.com/nathan-websculpt/sdl3-arkanoid)
-
----
-
 ### Defender (C++ / SDL3)
 
 - system-level refactor focused on ownership and boundaries
@@ -43,6 +33,16 @@ These projects use small games as controlled environments to explore determinist
 - rendering consumes read-only state (separation enforced)
 
 [View repository](https://github.com/nathan-websculpt/sdl3-defender-v2)
+
+---
+
+### Arkanoid (C++ / SDL3)
+
+- deterministic fixed-step simulation
+- state-machine driven gameplay slices (incremental, testable)
+- strict control over update order and mutation
+
+[View repository](https://github.com/nathan-websculpt/sdl3-arkanoid)
 
 ---
 

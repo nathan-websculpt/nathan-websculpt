@@ -81,6 +81,8 @@ Focus:
 - reproducible builds across environments  
 - validation of packaged artifacts, not just local runs  
 
+[Learn more](https://garden-sim.com)
+
 ---
 
 #### Defender
@@ -90,6 +92,8 @@ Focus:
 - centralized simulation orchestration
 - simulation/render separation
 
+[View repository](https://github.com/nathan-websculpt/sdl3-defender-v2)
+
 ---
 
 #### Arkanoid
@@ -97,6 +101,8 @@ Focus:
 - minimal deterministic simulation slices
 - incremental system construction
 - strict control over update flow
+
+[View repository](https://github.com/nathan-websculpt/sdl3-arkanoid)
 
 ---
 
