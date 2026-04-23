@@ -75,7 +75,7 @@ This maps well to simulation design.
 - An affordable alternative to Japanese Maples (the foliage is close enough)
 - Great for end-of-season chop-n-drop
 
-<img src="/assets/images/hibiscus_cranberry.jpg" alt="Cranberry Hibiscus" width="60%">
+<img src="/docs/assets/images/hibiscus_cranberry.jpg" alt="Cranberry Hibiscus" width="60%">
 
 ####  **🌺 Tropical Hibiscus** *(Hibiscus rosa-sinensis)*
 
@@ -84,7 +84,7 @@ This maps well to simulation design.
 - Vibrant and showy all season long
 - I study the hybridization of these
 
-<img src="/assets/images/hibiscus_tropical.jpg" alt="Tropical Hibiscus">
+<img src="/docs/assets/images/hibiscus_tropical.jpg" alt="Tropical Hibiscus">
 
 ####  **🌼 Cosmos** *(Cosmos Sulphureus)*
 
@@ -93,7 +93,7 @@ This maps well to simulation design.
 - Drought-tolerant once established
 - Be careful that they don't take over your yard!
 
-<img src="/assets/images/cosmos.jpg" alt="Cosmos" width="60%">
+<img src="/docs/assets/images/cosmos.jpg" alt="Cosmos" width="60%">
 
 #### **🌸 Morning Glory** *(over 1,000 species across several genera within the Convolvulaceae family, the most common being Ipomoea, Convolvulus, Calystegia, Merremia)*
 
