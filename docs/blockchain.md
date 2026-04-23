@@ -26,7 +26,7 @@ Background in smart contract development with a focus on execution behavior and 
 #### Gospel Onchain  
 [View repository](https://github.com/nathan-websculpt/gospel)
 
-- Bible stored directly on-chain (Optimism)
+- Bible stored directly onchain (Optimism)
 - Graph subgraph for querying and reading
 - Focus on persistence and accessibility of text
 
