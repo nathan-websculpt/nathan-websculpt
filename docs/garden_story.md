@@ -102,6 +102,6 @@ This maps well to simulation design.
 - Likely to be invasive in your area
 - You might have to battle rust all season long, but it is worth it
 
-<img src="/assets/images/morning_glory.jpg" alt="Morning Glory" width="60%">
+<img src="/docs/assets/images/morning_glory.jpg" alt="Morning Glory" width="60%">
 
 ---
