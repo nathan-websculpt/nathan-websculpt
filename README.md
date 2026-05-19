@@ -32,7 +32,7 @@ These projects use small games as controlled environments to explore determinist
 - Centralized simulation orchestration
 - Rendering consumes read-only state (separation enforced)
 
-[View repository](https://github.com/nathan-websculpt/sdl3-defender-v2)
+[View repository](https://github.com/nathan-websculpt/sdl3-defender-v3)
 
 ---
 

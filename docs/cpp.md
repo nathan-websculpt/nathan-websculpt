@@ -92,7 +92,7 @@ Focus:
 - centralized simulation orchestration
 - simulation/render separation
 
-[View repository](https://github.com/nathan-websculpt/sdl3-defender-v2)
+[View repository](https://github.com/nathan-websculpt/sdl3-defender-v3)
 
 ---
 
