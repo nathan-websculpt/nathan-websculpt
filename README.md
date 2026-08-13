@@ -74,3 +74,5 @@ These projects use small games as controlled environments to explore determinist
 ##### [Buy Me a Coffee](https://ko-fi.com/gardensim)
 
 ##### [Donate Crypto](https://etherscan.io/address/0x1e7aAbB9D0C701208E875131d0A1cFcDAba79350)
+
+##### [Send me an Email](mailto:websculpt@proton.me)
