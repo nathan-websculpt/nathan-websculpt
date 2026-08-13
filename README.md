@@ -1,5 +1,7 @@
 ### Hi, I'm Nathan
 
+📧 Reach out: websculpt@proton.me
+
 Systems-oriented engineer focused on deterministic simulation, C++ systems, and production-grade build pipelines.
 
 These projects use small games as controlled environments to explore deterministic simulation, state management, and build/release discipline.
