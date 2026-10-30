@@ -53,6 +53,8 @@ Seedable fixed-step simulation, explicit resource ownership, and recoverable hig
 
 SDL-independent simulation core with 120 Hz fixed-step updates and explicit gameplay state transitions. Regression tests verify input edges, collision ordering, and state preservation across resets.
 
+---
+
 <details>
 <summary>Earlier blockchain work</summary>
 
