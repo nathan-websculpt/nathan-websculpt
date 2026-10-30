@@ -10,7 +10,7 @@ Systems-oriented and focused on deterministic simulation, state management, and 
 
 **My Coding Journey**
 
-I spent almost a decade doing full-stack C#/.NET full-time before transitioning into the blockchain space. It was blockchain dev that introduced me to Rust, and that was when I discovered that I love low-level languages. I started writing [Huff](https://github.com/nathan-websculpt/huff-codes), [Rust](https://github.com/nathan-websculpt/rust-codes), [Zig](https://github.com/nathan-websculpt/zig-codes), [C](https://github.com/nathan-websculpt/c-codes), and [C++](https://github.com/nathan-websculpt/cpp-codes) before landing on C++ as my favorite... from there, I started building games. These days I am finding myself coming full-circle, back to C# and .NET, with the specific interest of using my new C++ knowledge to understand aspects of the first years of my career and begin to learn the deep internals of how .NET works.
+I spent almost a decade doing full-stack C#/.NET full time before transitioning into the blockchain space. It was blockchain dev that introduced me to Rust, and that was when I discovered that I love low-level languages. I started writing [Huff](https://github.com/nathan-websculpt/huff-codes), [Rust](https://github.com/nathan-websculpt/rust-codes), [Zig](https://github.com/nathan-websculpt/zig-codes), [C](https://github.com/nathan-websculpt/c-codes), and [C++](https://github.com/nathan-websculpt/cpp-codes) before landing on C++ as my favorite... from there, I started building games. These days I am finding myself coming full-circle, back to C# and .NET, with the specific interest of using my new C++ knowledge to learn the deep internals of how .NET works.
 
 [Email me](mailto:websculpt@proton.me)
 
@@ -60,8 +60,9 @@ EVM smart contracts and low-level Huff exploration focused on execution behavior
 
 - [Gospel Onchain](https://github.com/nathan-websculpt/gospel)
 - [Council](https://github.com/nathan-websculpt/council)
-- [Crowd Fund v5](https://github.com/nathan-websculpt/crowd-fund-v5)
+- [Crowd Fund](https://github.com/nathan-websculpt/crowd-fund-v4)
 - [Huff Codes](https://github.com/nathan-websculpt/huff-codes)
+- [Blockchain Blog](https://medium.com/@websculpt)
 
 [More on my blockchain work](docs/blockchain.md)
 
